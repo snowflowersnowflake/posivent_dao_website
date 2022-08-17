@@ -1,0 +1,33 @@
+{
+  "name": "positive-venture-dao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "positive-venture-dao",
+  "author": "cubesky",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "babel-plugin-styled-components": "^2.0.7",
+    "bootstrap": "^5.2.0",
+    "gatsby": "^4.20.0",
+    "gatsby-plugin-layout": "^3.20.0",
+    "gatsby-plugin-react-helmet": "^5.20.0",
+    "gatsby-plugin-sass": "^5.20.0",
+    "gatsby-plugin-styled-components": "^5.20.0",
+    "gatsby-source-filesystem": "^4.20.0",
+    "gatsby-transformer-yaml": "^4.20.0",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.1.0",
+    "styled-components": "^5.3.5"
+  }
+}

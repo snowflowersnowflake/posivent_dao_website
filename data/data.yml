@@ -1,0 +1,133 @@
+index:
+  logo: /logo.png
+  full_logo: /logo.png
+  slogan: Web3 Hi gggg
+  sub_slogan: Want? Yeahhhhhhddd
+
+foot: © 2022 by Positive Venture DAO
+
+about:
+  title: Web3 is here
+  block_text: 你好
+  intro:
+    - title: aaaaa
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    - title: aaaaa
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    - title: aaaaa
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    - title: aaaaa
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+  invest:
+    - title: aaaaa
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    - title: aaaaa
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    - title: aaaaa
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    - title: aaaaa
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+    - title: ddddd
+      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+
+careers:
+  title: xxxxx
+  text: |
+    Hi, this is a DAO.
+    Watch this.
+    I will test
+
+contact:
+  - name: xx
+    link: xx
+    text: xx
+  - name: xx22
+    link: xx22
+    text: xx33
+
+team:
+  - image: /teams/Ritesh__JPG.jpg
+    name: xxx333
+    job: xxx
+    social:
+      twitter: xxx
+      github: xxx
+  - image: /teams/Ritesh__JPG.jpg
+    name: xxx
+    job: xxx
+    social:
+      twitter: xxx
+      github: xxx
+  - image: /teams/Ritesh__JPG.jpg
+    name: xxx
+    job: xxx
+    social:
+      twitter: xxx
+      github: xxx
+  - image: /teams/Ritesh__JPG.jpg
+    name: xxx
+    job: xxx
+    social:
+      twitter: xxx
+      github: xxx
+  - image: /teams/Ritesh__JPG.jpg
+    name: xxx
+    job: xxx
+    social:
+      twitter: xxx
+      github: xxx
+  - image: /teams/Ritesh__JPG.jpg
+    name: xxx
+    job: xxx
+    social:
+      twitter: xxx
+      github: xxx
+  - image: /teams/Ritesh__JPG.jpg
+    name: xxx
+    job: xxx
+    social:
+      twitter: xxx
+      github: xxx
+
+portfolio:
+  title: Web3 is here 2333
+  block_text: aaaaa
+  projects:
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: aaaaa
+      block_text: xxx
+      href: /
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: aaaaa
+      block_text: xxx
+      href: /
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: aaaaa
+      block_text: xxx
+      href: /
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: aaaaa
+      block_text: xxx
+      href: /
+
+  second_title: O
+  second_block_text: aaaaa
+  second_projects:
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: xxx
+      href: /
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: xxx
+      href: /
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: xxx
+      href: /
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: xxx
+      href: /
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: xxx
+      href: /
+    - image: /projects/Blink Moon_edited_edited.jpg
+      title: xxx
+      href: /
