@@ -6,6 +6,7 @@ import Col from 'react-bootstrap/Col';
 import styled from "styled-components";
 import { graphql } from "gatsby";
 
+// define basic stylistic features
 const BGGrey = styled.div`
 background-color: rgb(232,232,232)
 `
