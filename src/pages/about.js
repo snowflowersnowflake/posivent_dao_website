@@ -39,17 +39,17 @@ const MarginAll = styled.div`
 margin: 2rem;
 `
 
-// const InvestTitle = styled.p`
-// font-size:26px;
-// font-weight:bold;
-// text-align: left;
-// `
+const InvestTitle = styled.p`
+font-size:26px;
+font-weight:bold;
+text-align: left;
+`
 
-// const InvestText = styled.p`
-// font-size:18px;
-// text-align: left;
-// overflow-wrap: break-word;
-// `
+const InvestText = styled.p`
+font-size:18px;
+text-align: left;
+overflow-wrap: break-word;
+`
 
 const AboutPage = ({data}) => {
   let intro = []
@@ -90,12 +90,12 @@ const AboutPage = ({data}) => {
         <BGGrey>
             <div className="col-md-5 mx-auto">
             <SelfCentered>
-//                 <Slogan>Where we invest</Slogan>
-//                 <Container>
-//                     <Row xs={1} md={2}>
-//                         {invest}
-//                     </Row>
-//                 </Container>
+                <Slogan>Where we invest</Slogan>
+                <Container>
+                    <Row xs={1} md={2}>
+                        {invest}
+                    </Row>
+                </Container>
             </SelfCentered>
             </div>
         </BGGrey>
