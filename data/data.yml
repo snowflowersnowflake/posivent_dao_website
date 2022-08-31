@@ -31,9 +31,24 @@ about:
 careers:
   title: xxxxx
   text: |
-    Hi, this is a DAO.
-    Watch this.
-    I will test
+      1. Technical Analyst
+      Positive Venture DAO is looking for a junior technical analyst to conduct research on several L1 protocols in our deal database. The analyst is expected to: 
+        - Write detailed reports on security and scalability dimensions of such L1 protocols
+        - Conduct software engineering and blockchain DAPP development work on L1
+        - Write a detailed report on certain L2 projects on top of the ditto L1 layer, examining their algorithmic design and maturity
+        - Synthesize the above findings to contribute to investment decisions
+      The candidate should commit at least 12 hours per week to this task.
+        Preferably Qualifications:
+        - Passions in blockchain investment research and working with startups
+        - Outstanding attention to detail, and work ethic
+        - Preferably 1 – 4+ years of experience in computer science programming and product management; preferably, significant experience working in or with tech startups
+        - Strong analytical skills: Understand protocol source code written in Rust/Solidity, and Javascript/Python
+        - Strong communication skills to present findings orally to leadership and writing skills to produce research materials
+        What We Offer:
+        - A decentralized investment decision process described above that guarantees to its technical analysts
+          - Right to form teams or single-handedly produce investment memos; the investment memo specifies their pre-negotiated contribution, rewards from operating revenue, and stake in the organization; the smart contract ensures implementation of investment memo upon approval decision from Investment Committee
+          - Transparent approval process and record-keeping
+          - Broader eligibility (lower vested capital requirement) to become a decision-maker in the investment process by joining the Investment Committee
 contact:
   - name: Twitter
     link: https://mobile.twitter.com/dao_positiveV
