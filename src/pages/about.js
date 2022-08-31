@@ -90,12 +90,12 @@ const AboutPage = ({data}) => {
         <BGGrey>
             <div className="col-md-5 mx-auto">
             <SelfCentered>
-                <Slogan>Where we invest</Slogan>
-                <Container>
-                    <Row xs={1} md={2}>
-                        {invest}
-                    </Row>
-                </Container>
+//                 <Slogan>Where we invest</Slogan>
+//                 <Container>
+//                     <Row xs={1} md={2}>
+//                         {invest}
+//                     </Row>
+//                 </Container>
             </SelfCentered>
             </div>
         </BGGrey>
