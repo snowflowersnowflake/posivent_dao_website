@@ -16,9 +16,9 @@ about:
       block_text: A Venture DAO smart contract-enabled business structure
     - title: Plan  
       block_text: Establish legal entity enabled by smart contract (henceforth referred to as the “Positive Venture DAO Designated Smart Contract”) in Q3 2022 and to initiate investments in Q4 2022
-  invest:
-    - title: aaaaa
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+#   invest:
+#     - title: aaaaa
+#       block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 #     - title: aaaaa
 #       block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 #     - title: aaaaa
