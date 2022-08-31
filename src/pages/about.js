@@ -39,17 +39,17 @@ const MarginAll = styled.div`
 margin: 2rem;
 `
 
-const InvestTitle = styled.p`
-font-size:26px;
-font-weight:bold;
-text-align: left;
-`
+// const InvestTitle = styled.p`
+// font-size:26px;
+// font-weight:bold;
+// text-align: left;
+// `
 
-const InvestText = styled.p`
-font-size:18px;
-text-align: left;
-overflow-wrap: break-word;
-`
+// const InvestText = styled.p`
+// font-size:18px;
+// text-align: left;
+// overflow-wrap: break-word;
+// `
 
 const AboutPage = ({data}) => {
   let intro = []
