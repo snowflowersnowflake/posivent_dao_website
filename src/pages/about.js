@@ -114,11 +114,11 @@ query {
             block_text
             title
           }
-//           invest {
-//             block_text
-//             title
-//           }
-//           title
+           invest {
+             block_text
+             title
+           }
+           title
         }
     }
 }
