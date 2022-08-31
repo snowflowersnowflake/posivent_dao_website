@@ -7,26 +7,26 @@ index:
 foot: © 2022 by Positive Venture DAO
 
 about:
-  title: P o s i t i v e V e n t u r e  D A O
-  block_text:  Positive Venture DAO (PVD) aims to build a top investment DAO that invests and provides a resourceful ecosystem in groundbreaking blockchain & crypto companies. We create unique investment deal flow and decision-making mechanisms by leveraging (a) cross-cultural, diverse experience background of members, (b) DAO structure using smart contract to guarantee decentralized trustless investment and operation process. We will set legal entity and smart contract in Q3 2022, start investment in Q4 2022
+  title: Positive Venture DAO
+  block_text: Positive Venture DAO (PVD) aims to build a top investment DAO that invests and supports groundbreaking blockchain companies with an ecosystem of technical and business resources. 
   intro:
-    - title: Committers 
-      block_text: People who are granted to be investors of the PVD treasury (1-8 “Blocks” ) , entitled with voting rights and dividend rights.
-    - title: Buidlers
-      block_text: people who are willing to contribute in PVD , but not investors of PVD treasury, top buidlers get exposure of PVD investment process, those who contribute in certain investment due diligence get dividend rights accordingly
-    - title: Members  
-      block_text: people who are in PVD discord, telegram, wechat group and engage in our general events.
+    - title: Diversity 
+      block_text: Members of diverse expertise and multi-cultural backgrounds  
+    - title: Convinced
+      block_text: A Venture DAO smart contract-enabled business structure
+    - title: Plan  
+      block_text: Establish legal entity enabled by smart contract (henceforth referred to as the “Positive Venture DAO Designated Smart Contract”) in Q3 2022 and to initiate investments in Q4 2022
   invest:
     - title: aaaaa
       block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    - title: aaaaa
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    - title: aaaaa
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    - title: aaaaa
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    - title: ddddd
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+#     - title: aaaaa
+#       block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+#     - title: aaaaa
+#       block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+#     - title: aaaaa
+#       block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+#     - title: ddddd
+#       block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 
 careers:
   title: xxxxx
@@ -37,7 +37,7 @@ careers:
 contact:
   - name: Twitter
     link: https://mobile.twitter.com/dao_positiveV
-    text: @dao_PositiveV
+    text: dao_PositiveV
   - name: Discord
     link: https://discord.gg/U7Z96NRj
     text: welcome to our dao
