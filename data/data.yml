@@ -36,12 +36,12 @@ careers:
     I will test
 
 contact:
-  - name: xx
-    link: xx
-    text: xx
-  - name: xx22
-    link: xx22
-    text: xx33
+  - name: Twitter
+    link: https://mobile.twitter.com/dao_positiveV
+    text: @dao_PositiveV
+  - name: Discord
+    link: https://discord.gg/U7Z96NRj
+    text: welcome to our dao
 
 team:
   - image: /teams/Ritesh__JPG.jpg
