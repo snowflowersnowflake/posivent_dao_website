@@ -4,7 +4,6 @@ import Container from 'react-bootstrap/Container';
 import styled from "styled-components";
 import { graphql } from "gatsby";
 
-// define basic stylistic features
 const BGGrey = styled.div`
 background-color: rgb(232,232,232)
 `
@@ -19,33 +18,33 @@ margin-top: 2rem;
 font-weight: 400;
 `
 
-const AboutPage = ({data}) => {
+const PortfolioPage = ({data}) => {
   return (
     <Stack gap={3}>
         <BGGrey>
             <div className="col-md-5 mx-auto">
             <SelfCentered>
-                <Slogan>{data.dataYaml.about.title}</Slogan>
+                <Slogan>{data.dataYaml.ecosystem.title}</Slogan>
             </SelfCentered>
             </div>
         </BGGrey>
         <SelfCentered>
-            <Container>
-                {data.dataYaml.about.text}
+            <Container style={{ width: '100%' }}>
+                <img src={data.dataYaml.ecosystem.image} style={{ width: '100%' }}></img>
             </Container>
         </SelfCentered>
       </Stack>
   )
 }
 
-export default AboutPage
+export default PortfolioPage
 
 export const pageQuery = graphql`
 query {
     dataYaml {
-        about {
+        ecosystem {
           title
-          text
+          image
         }
     }
 }

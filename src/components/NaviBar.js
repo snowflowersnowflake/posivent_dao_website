@@ -15,8 +15,8 @@ const NaviBar = ({ title }) => {
           </Nav>
           <Nav>
             <Link to="/about"><Nav.Link href="/about">ABOUT</Nav.Link></Link>
+            <Link to="/ecosystem"><Nav.Link href="/ecosystem">ECOSYSTEM</Nav.Link></Link>
             <Link to="/team"><Nav.Link href="/team">TEAM</Nav.Link></Link>
-            <Link to="/portfolio"><Nav.Link href="/portfolio">PORTFOLIO</Nav.Link></Link>
             <Link to="/careers"><Nav.Link href="/careers">CAREERS</Nav.Link></Link>
             <Link to="/contact"><Nav.Link href="/contact">CONTACT</Nav.Link></Link>
           </Nav>

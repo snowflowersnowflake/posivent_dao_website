@@ -2,44 +2,25 @@ index:
   logo: Web
   full_logo: Web
   slogan: Welcome to Positive Venture DAO!
-  sub_slogan: |
-    We are is an organization of students from across the nation interested in the intersection of crypto and early-stage investing. 
-    We aim to demystify applications of blockchain technology in the constantly changing Web3 landscape by putting venture capital practices into play.
+  sub_slogan: | 
+      We are is an organization of students from across the nation interested in the intersection of crypto and early-stage investing. 
+      We aim to demystify applications of blockchain technology in the constantly changing Web3 landscape by putting venture capital practices into play.
 
 foot: © 2022 by Positive Venture DAO
 
 about: 
   title: Welcome to Positive Venture DAO
-  block_text: Change!
-  intro:
-    - title: What We Do
-      block_text: Positive Venture DAO (PVD) aims to build a top investment DAO that invests and constructs a fertile ecosystem of leading blockchain developers & startups. We possess unique investment opportunities by (a) sourcing from a vast pool of talents of diverse cultural background and varied expertise and (b) guaranteeing a decentralized and thus incentivizing deal flow process with specific smart contract designs. We plan to complete the setup of legal structure and development of smart contract by mid-late November and expect to make the initial deals by October 2022.
-    - title: Who We Are
-      block_text: |
-        Our team consists of senior venture capitalists, entrepreneurs, technicians (software and blockchain engineering; auditing, law, and marketing),
-        students, and professors from top universities with global backgrounds. As of now, we have 4 Co-founders who do it at a full-time pace, 15+ Committers who will invest between $30k to $240k in the DAO treasury, and 20+ Builders on the investment team.
-    - title: Why We Are Unique
-      block_text: We have designed a unique smart contract-enabled incentive system for ensure a fair and thus efficient investment decision-making process.
-    - title: Get Involved!
-      block_text: We are actively recruitig new members. Check out our CAREERS
-  invest:
-    - title: aaaaa
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    - title: aaaaa
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    - title: aaaaa
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    - title: aaaaa
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-    - title: ddddd
-      block_text: xxxccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
-
+  text: The First Crypto-Native Decentralized Angel Investment Venture
+  
 careers:
-  title: xxxxx
-  text: |
-    Hi, this is a DAO.
-    Watch this.
-    I will test
+  - title: xxxxx
+    pdf: /a.pdf
+  - title: xxxxx
+    pdf: /a.pdf
+  - title: xxxxx
+    pdf: /a.pdf
+  - title: xxxxx
+    pdf: /a.pdf
 
 contact:
   - name: xx
@@ -93,45 +74,7 @@ team:
       twitter: xxx
       github: xxx
 
-portfolio:
+ecosystem:
   title: Web3 is here 2333
-  block_text: aaaaa
-  projects:
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: aaaaa
-      block_text: xxx
-      href: /
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: aaaaa
-      block_text: xxx
-      href: /
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: aaaaa
-      block_text: xxx
-      href: /
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: aaaaa
-      block_text: xxx
-      href: /
-
-  second_title: O
-  second_block_text: aaaaa
-  second_projects:
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: xxx
-      href: /
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: xxx
-      href: /
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: xxx
-      href: /
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: xxx
-      href: /
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: xxx
-      href: /
-    - image: /projects/Blink Moon_edited_edited.jpg
-      title: xxx
-      href: /
+  image: /img.png
+  
