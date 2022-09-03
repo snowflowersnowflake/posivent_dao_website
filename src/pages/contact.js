@@ -21,7 +21,7 @@ margin: 2rem;
 `
 
 const ContactFont = styled.p`
-font-size: 18px;
+font-size: 24px;
 `
 
 const ContantHref = styled.a`
@@ -32,6 +32,7 @@ outline: 0;
 vertical-align: baseline;
 background: transparent;
 cursor: pointer;
+font-size: 20px;
 text-decoration: none;
 color: inherit;
 `
