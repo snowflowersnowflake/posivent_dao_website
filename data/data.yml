@@ -23,13 +23,13 @@ contact:
     text: PositiveVentureDAO
 
 team:
-    - text: qaaaaaa
-#   - image: /teams/Ritesh__JPG.jpg
-#     name: xxx333
-#     job: xxx
-#     social:
-#       twitter: xxx
-#       github: xxx
+#     - text: qaaaaaa
+  - image: /teams/Ritesh__JPG.jpg
+    name: xxx333
+    job: xxx
+    social:
+      twitter: xxx
+      github: xxx
 #   - image: /teams/Ritesh__JPG.jpg
 #     name: xxx
 #     job: xxx
