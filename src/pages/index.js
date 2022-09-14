@@ -42,7 +42,6 @@ query {
     index {
       full_logo
       slogan
-      sub_slogan
     }
   }
 }
