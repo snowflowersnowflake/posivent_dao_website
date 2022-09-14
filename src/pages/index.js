@@ -21,7 +21,7 @@ const IndexPage = ({data}) => {
       <Stack gap={3} className="col-md-5 mx-auto">
         <SelfCentered>
           <p></p>
-          <img src={data.dataYaml.index.full_logo} style={{maxWidth: 150}} alt="Logo"></img>
+          <img src={data.dataYaml.index.full_logo}  alt="Logo"></img>
           <p></p>
           <Slogan>{data.dataYaml.index.slogan}</Slogan>
         </SelfCentered>
