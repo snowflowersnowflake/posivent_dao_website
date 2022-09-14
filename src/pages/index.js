@@ -1,45 +1,52 @@
 import * as React from "react"
 import Stack from 'react-bootstrap/Stack';
+import Container from 'react-bootstrap/Container';
 import styled from "styled-components";
 import { graphql } from "gatsby";
 
-const Centered = styled.div`
-justify-content: center;
+// define basic stylistic features
+const BGGrey = styled.div`
+background-color: rgb(232,232,232)
 `
 
 const SelfCentered = styled.div`
-align-self: center
+align-self: center;
+text-align: center;
 `
 const Slogan = styled.p`
-font-size: 25px;
+font-size: 50px;
+margin-top: 2rem;
 font-weight: 400;
 `
 
-const IndexPage = ({data}) => {
+const AboutPage = ({data}) => {
   return (
-    <Centered>
-      <Stack gap={3} className="col-md-5 mx-auto">
+    <Stack gap={3}>
+        <BGGrey>
+            <div className="col-md-5 mx-auto">
+            <SelfCentered>
+                <Slogan>{data.dataYaml.about.title}</Slogan>
+            </SelfCentered>
+            </div>
+        </BGGrey>
         <SelfCentered>
-          <p></p>
-          <img src={data.dataYaml.index.full_logo}  alt="Logo"></img>
-          <p></p>
-          <Slogan>{data.dataYaml.index.slogan}</Slogan>
+            <Container>
+                {data.dataYaml.about.text}
+            </Container>
         </SelfCentered>
-        <hr></hr>
       </Stack>
-    </Centered>
   )
 }
 
-export default IndexPage
+export default AboutPage
 
 export const pageQuery = graphql`
 query {
-  dataYaml {
-    index {
-      full_logo
-      slogan
+    dataYaml {
+        about {
+          title
+          text
+        }
     }
-  }
 }
 `
