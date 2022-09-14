@@ -26,9 +26,6 @@ const IndexPage = ({data}) => {
           <Slogan>{data.dataYaml.index.slogan}</Slogan>
         </SelfCentered>
         <hr></hr>
-        <SelfCentered>
-          <Slogan>{data.dataYaml.index.sub_slogan}</Slogan>
-        </SelfCentered>
       </Stack>
     </Centered>
   )
